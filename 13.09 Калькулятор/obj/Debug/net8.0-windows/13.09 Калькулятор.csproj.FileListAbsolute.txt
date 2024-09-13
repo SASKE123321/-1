@@ -1,0 +1,16 @@
+C:\Users\dea.odobesku\source\repos\13.09 Калькулятор\13.09 Калькулятор\bin\Debug\net8.0-windows\13.09 Калькулятор.exe
+C:\Users\dea.odobesku\source\repos\13.09 Калькулятор\13.09 Калькулятор\bin\Debug\net8.0-windows\13.09 Калькулятор.deps.json
+C:\Users\dea.odobesku\source\repos\13.09 Калькулятор\13.09 Калькулятор\bin\Debug\net8.0-windows\13.09 Калькулятор.runtimeconfig.json
+C:\Users\dea.odobesku\source\repos\13.09 Калькулятор\13.09 Калькулятор\bin\Debug\net8.0-windows\13.09 Калькулятор.dll
+C:\Users\dea.odobesku\source\repos\13.09 Калькулятор\13.09 Калькулятор\bin\Debug\net8.0-windows\13.09 Калькулятор.pdb
+C:\Users\dea.odobesku\source\repos\13.09 Калькулятор\13.09 Калькулятор\obj\Debug\net8.0-windows\_13._09_Калькулятор.Form1.resources
+C:\Users\dea.odobesku\source\repos\13.09 Калькулятор\13.09 Калькулятор\obj\Debug\net8.0-windows\13.09 Калькулятор.csproj.GenerateResource.cache
+C:\Users\dea.odobesku\source\repos\13.09 Калькулятор\13.09 Калькулятор\obj\Debug\net8.0-windows\13.09 Калькулятор.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dea.odobesku\source\repos\13.09 Калькулятор\13.09 Калькулятор\obj\Debug\net8.0-windows\13.09 Калькулятор.AssemblyInfoInputs.cache
+C:\Users\dea.odobesku\source\repos\13.09 Калькулятор\13.09 Калькулятор\obj\Debug\net8.0-windows\13.09 Калькулятор.AssemblyInfo.cs
+C:\Users\dea.odobesku\source\repos\13.09 Калькулятор\13.09 Калькулятор\obj\Debug\net8.0-windows\13.09 Калькулятор.csproj.CoreCompileInputs.cache
+C:\Users\dea.odobesku\source\repos\13.09 Калькулятор\13.09 Калькулятор\obj\Debug\net8.0-windows\13.09 Калькулятор.dll
+C:\Users\dea.odobesku\source\repos\13.09 Калькулятор\13.09 Калькулятор\obj\Debug\net8.0-windows\refint\13.09 Калькулятор.dll
+C:\Users\dea.odobesku\source\repos\13.09 Калькулятор\13.09 Калькулятор\obj\Debug\net8.0-windows\13.09 Калькулятор.pdb
+C:\Users\dea.odobesku\source\repos\13.09 Калькулятор\13.09 Калькулятор\obj\Debug\net8.0-windows\13.09 Калькулятор.genruntimeconfig.cache
+C:\Users\dea.odobesku\source\repos\13.09 Калькулятор\13.09 Калькулятор\obj\Debug\net8.0-windows\ref\13.09 Калькулятор.dll
